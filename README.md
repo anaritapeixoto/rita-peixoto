@@ -4,6 +4,8 @@
 
 📍 I am from Braga and I am passionate about science and technology.
 
+➡️ I am also on [Linkedin](https://www.linkedin.com/in/anaritapeixoto/).
+
 ## Projects
 
 🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all of my college projects.
