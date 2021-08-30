@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+💻 I am Rita, currently studying Software Engineering at the University Of Minho. 💻
+
+📍 I am from Braga and I am passionate about science and technology.
+
+## Projects
+
+🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all of my college projects.
 
 <!--
 **rita-peixoto/rita-peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
