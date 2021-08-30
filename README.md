@@ -6,7 +6,7 @@
 
 ➡️ I am also on [Linkedin](https://www.linkedin.com/in/anaritapeixoto/).
 
-## Projects
+### Projects
 
 🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all of my college projects.
 
