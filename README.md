@@ -10,8 +10,7 @@
 
 🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all of my college projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=tokyonight)
 
 
 <!--
