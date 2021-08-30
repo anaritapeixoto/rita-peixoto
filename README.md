@@ -1,6 +1,6 @@
 ### Hello 👋
 
-💻 I am Rita, currently studying Software Engineering at the University Of Minho. 💻
+💻 I am Rita, currently studying Software Engineering at the University Of Minho, Braga. 💻
 
 📍 I am from Braga and I am passionate about science and technology.
 
