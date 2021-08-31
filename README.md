@@ -4,7 +4,7 @@
 
 📍 I am from Braga and I am passionate about science and technology.
 
-➡️ I am also on [Linkedin](https://www.linkedin.com/in/anaritapeixoto/).
+➡️ I am also on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
 ### Projects
 
