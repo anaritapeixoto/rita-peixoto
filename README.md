@@ -8,7 +8,7 @@
 
 ### Projects
 
-🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all of my college projects developed during my licenciate degree.
+🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all projects developed during my licenciate degree.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
 
