@@ -4,7 +4,6 @@
 
 📍 I am from Braga and I am passionate about science and technology.
 
-➡️ I am also on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
 ### Projects
 
@@ -14,6 +13,10 @@
 
 ![](https://komarev.com/ghpvc/?username=rita-peixoto)
 
+### Find me
+
+➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
+🌐 Check my [Webpage](https://rita-peixoto.github.io/).
 
 <!--
 **rita-peixoto/rita-peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
