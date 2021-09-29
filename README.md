@@ -16,6 +16,7 @@
 ### Find me
 
 ➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
+
 🌐 Check my [Webpage](https://rita-peixoto.github.io/).
 
 <!--
