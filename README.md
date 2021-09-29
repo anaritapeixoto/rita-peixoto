@@ -14,7 +14,7 @@
 
 ➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
-🌐 Check my [Webpage](https://rita-peixoto.github.io/).
+🌐 Check my personal [WebPage](https://rita-peixoto.github.io/).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
 
