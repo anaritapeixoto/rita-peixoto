@@ -5,7 +5,7 @@
 📍 I am from Braga and I am passionate about science and technology.
 
 
-### Projects
+## Projects
 
 🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all projects developed during my licentiate degree.
 
@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rita-peixoto)
 
-### Find me
+## Find me
 
 ➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
