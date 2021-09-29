@@ -12,9 +12,9 @@
 
 ## Find me
 
-➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
+➡️ I am also on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
-🌐 Check my personal [WebPage](https://rita-peixoto.github.io/).
+🌐 Check my personal [WebPage](https://rita-peixoto.github.io/) to know more about me.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
 
