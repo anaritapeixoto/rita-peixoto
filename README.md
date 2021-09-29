@@ -9,15 +9,16 @@
 
 🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all projects developed during my licentiate degree.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
-
-![](https://komarev.com/ghpvc/?username=rita-peixoto)
 
 ## Find me
 
 ➡️ I am on [LinkedIn](https://www.linkedin.com/in/anaritapeixoto/).
 
 🌐 Check my [Webpage](https://rita-peixoto.github.io/).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
+
+![](https://komarev.com/ghpvc/?username=rita-peixoto)
 
 <!--
 **rita-peixoto/rita-peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
