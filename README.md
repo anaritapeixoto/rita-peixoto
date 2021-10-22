@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 💻 I am Rita, currently studying Software Engineering at the University Of Minho, Braga. 💻
 
