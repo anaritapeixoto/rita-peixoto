@@ -7,7 +7,7 @@
 
 ## Projects
 
-🎓 [Here](https://github.com/rita-peixoto/uminho-lei/) you can find all projects developed during my licentiate degree.
+🎓 [Projects](https://github.com/rita-peixoto/uminho-lei/) developed during my licentiate degree.
 
 
 ## Find me
