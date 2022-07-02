@@ -7,9 +7,9 @@
 
 ## Projects
 
-🎓 [Projects](https://github.com/rita-peixoto/uminho-lei/) developed during my **bachelor's degree**.
+🎓 [Projects](https://github.com/rita-peixoto/uminho-lei/) developed during my **bachelor's degree** in Software Engineering.
 
-🎓 [Projects](https://github.com/rita-peixoto/MEI-UMinho) developed during my **masters's degree**.
+🎓 [Projects](https://github.com/rita-peixoto/MEI-UMinho) developed during my **masters's degree** in Software Engineering.
 
 
 ## Find me
