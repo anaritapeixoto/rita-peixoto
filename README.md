@@ -20,7 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-peixoto&theme=dracula&hide=Roff)
 
-![](https://komarev.com/ghpvc/?username=rita-peixoto)
+![](https://komarev.com/ghpvc/?username=rita-peixoto)  
 
 <!--
 **rita-peixoto/rita-peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
